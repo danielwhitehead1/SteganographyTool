@@ -13,3 +13,6 @@ Program summary and motivation can be found at "https://www.youtube.com/watch?v=
 # Contributors
 
 June Kang, Mandeep Mann and John Iyere.
+
+# Disclaimer
+*Written with little programming experience*
